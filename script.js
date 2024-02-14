@@ -20,7 +20,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     // Mostrar el mensaje específico
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = '¡Oh Siii! jajaja';
+    document.getElementById('messageContainer').innerHTML = '¡Sabes que eres mi mundo, te adoro y aunque he sido un tonto, te amo con el corazon y eso ni tonto ni inteligente va a cambiar. PDT sabia que ibas a decir que si a la primera jajaja';
 
     // Mostrar otro gif después de 3 segundos
     setTimeout(function() {
